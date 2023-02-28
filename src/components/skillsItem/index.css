@@ -1,0 +1,11 @@
+.skills-list-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.skills-image-size {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+}
